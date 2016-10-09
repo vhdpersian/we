@@ -1,1 +1,2 @@
-hello world
+http://stackoverflow.com/questions/17546101/get-real-path-for-uri-android
+http://stackoverflow.com/questions/2789276/android-get-real-path-by-uri-getpath
